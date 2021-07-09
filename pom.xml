@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.rodrigopeleias</groupId>
-	<artifactId>bookstoremanager</artifactId>
+	<artifactId>bookstoremanager1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bookstoremanager1</name>
 	<description>Bookstore Manager Project</description>
