@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.rodrigopeleias</groupId>
-	<artifactId>bookstoremanager1</artifactId>
+	<artifactId>bookstoremanager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bookstoremanager1</name>
+	<name>bookstoremanager</name>
 	<description>Bookstore Manager Project</description>
 	<properties>
 		<java.version>11</java.version>
@@ -66,12 +66,7 @@
 			<groupId>org.xmlunit</groupId>
 			<artifactId>xmlunit-core</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>com.rodrigopeleias</groupId>
-			<artifactId>bookstoremanager</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-			<scope>test</scope>
-		</dependency>
+		
 		<dependency>
 			<groupId>com.github.javafaker</groupId>
 			<artifactId>javafaker</artifactId>
