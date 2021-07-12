@@ -15,4 +15,4 @@
     }
   }
   
-  Utilizar a URL (https://bookstore-manager-courseee.herokuapp.com/) no POSTMAN (https://www.postman.com/).
+  Utilizar a URL (https://bookstore-manager-courseee.herokuapp.com/api/v1/books) no POSTMAN (https://www.postman.com/).
